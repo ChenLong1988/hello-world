@@ -5,3 +5,5 @@ Hi Human,
 
 Chen Long here, I'm a beginner of python and I know a little about C++ and Java.
 Hope I can make some friends and learn some skills here!
+
+Set a flag to distinguish!
